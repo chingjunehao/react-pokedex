@@ -1,5 +1,6 @@
-### Start the app by running
+### Install modules and start the app by running
 
 ```bash
+npm i
 npm start
 ```
